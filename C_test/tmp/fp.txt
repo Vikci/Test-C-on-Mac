@@ -1,0 +1,2 @@
+Testing for fputs
+Testing for fprintf
